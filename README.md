@@ -1,5 +1,5 @@
 # PageBar
-一个jquery分页插件
+一个jquery分页插件1111
 ```js
  var pager = $('#pager').pagebar({
                 displayPageCount: 5,

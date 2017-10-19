@@ -1,4 +1,4 @@
-# PageBar
+# PageBar v1.0
 一个jquery分页插件1111
 ```js
  var pager = $('#pager').pagebar({
